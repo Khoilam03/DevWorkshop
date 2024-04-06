@@ -1,0 +1,8 @@
+1. I believe both of them value self-critic and respectful feedback. Yelp wants more on the learning and code maintainability, and Microsoft want more about communication and inefficiencies.
+
+2. https://codereview.stackexchange.com/questions/291344/given-two-sparse-vectors-compute-their-dot-product
+For the hashmap part, there is commentation, there is also a comment underneath explaining how it's being implement.
+ 
+3. https://codereview.stackexchange.com/questions/291344/given-two-sparse-vectors-compute-their-dot-product
+For the array part, there is no comment. They just assume everyone will understand the code.
+
